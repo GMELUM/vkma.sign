@@ -1,0 +1,25 @@
+{
+    "name": "vkma.sign",
+    "version": "0.0.1",
+    "description": "Verification of signatures, VK launch parameters, aimed at maximum performance",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "author": "АРТУР ФРАНК | GMELUM",
+    "license": "MIT",
+    "homepage": "https://github.com/GMELUM/vkma.sign",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GMELUM/vkma.sign.git"
+    },
+    "bugs": {
+        "url": "https://github.com/GMELUM/vkma.sign/issues"
+    },
+    "keywords": [
+        "typescript",
+        "npm",
+        "sign",
+        "vk",
+        "vkma",
+        "addons"
+    ]
+}
